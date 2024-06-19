@@ -28,3 +28,4 @@ jobs:
         - name: Show hidden files
           run: |
              ls
+                cat README.md
